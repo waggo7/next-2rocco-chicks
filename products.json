@@ -1,0 +1,36 @@
+[{
+        "title": "Silver Laced Wyandotte",
+        "id": "wyand",
+        "description": "he Wyandotte is an American breed of chicken developed in the 1870s. It was named for the indigenous Wyandot people of North America. The Wyandotte is a dual-purpose breed, kept for its brown eggs and its yellow-skinned meat. It is a popular show bird, and has many color variants. ",
+        "price": "31.99",
+        "image": "/images/silver-laced-wyandotte.jpg"
+    },
+    {
+        "title": " Bielefelder",
+        "id": "bield",
+        "description": "The Bielefelder is dual-purpose breed, well suited to extensive management. It is fast-growing and yields a good carcass. Hens may give about 230 large brown eggs per year, with an average weight of about 60 g. Bantam hens may give about 160 eggs per year, with an average weight of 49 g",
+        "price": "31.99",
+        "image": "/images/German-Bielefelder.jpg"
+    },
+    {
+        "title": "Americuanas",
+        "id": "ameri",
+        "description": "Developed in the United States in the 1970s, for the blue-egg gene, with cleaner genetics",
+        "price": "31.99",
+        "image": "/images/americuana.jpg"
+    },
+    {
+        "title": "Whitings",
+        "id": "whiti",
+        "description": "Whiting True Blue chickens are a relatively new chicken breed, known for large blue eggs, great heat tolerance, though less broody than other hens",
+        "price": "33.99",
+        "image": "/images/whiting.jpg"
+    },
+    {
+        "title": "Orpington chicken",
+        "id": "orpin",
+        "description": "Breed in the 19th century to be a dual purpose chicken but primarily became used for show",
+        "price": "34.99",
+        "image": "/images/orpington.jpg"
+    }
+]

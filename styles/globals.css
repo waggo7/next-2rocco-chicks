@@ -1,0 +1,42 @@
+/* #navbarcontainer {
+    padding-left: 50px;
+    padding-bottom: 25px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+} */
+
+#topnav {}
+
+nav {
+    width: 100%;
+}
+
+a {
+    color: rgb(255, 193, 7);
+}
+
+a:hover {
+    color: red;
+}
+
+#Education_nav {
+    display: grid;
+    padding-top: 25px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: center;
+}
+
+#prod_disc {
+    overflow: hidden;
+}
+
+#cardheader {
+    display: contents;
+}
+
+#addbtn {
+    margin: 10px;
+    align-self: center;
+    width: 50%;
+}
